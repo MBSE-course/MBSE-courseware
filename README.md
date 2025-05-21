@@ -30,8 +30,11 @@ This is the main document that can be used to navigate to the rest of the Live S
 
 - **``Chapters/``**\
 This folder contains the Live Scripts of the course chapters
-  - **``Introduction(2).mlx``**
-  - **``Advantages(3).mlx``**
+  - **``Introduction(2).mlx``**\
+  A real-world example is NASA's use of MBSE in developing spacecraft:\
+  <img src="https://github.com/MBSE-course/MBSE-courseware/blob/main/Chapters/figures/mbse_spacecraft.png" width="50%">\
+  - **``Advantages(3).mlx``**\
+  - 
   - **``Requirements(4).mlx``**
   - **``ImportingRequirements(5).mlx``**
   - **``LinkingRequirements(6).mlx``**
