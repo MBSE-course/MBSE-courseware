@@ -12,7 +12,9 @@ This courseware on Model Based Systems Engineering (MBSE) addresses the various 
 \
 Moreover, the interactive courseware uses extensively the [MATLAB&reg;](https://www.mathworks.com/products/matlab.html) Live Editor for the development and the presentation.\
 \
-Each chapter ends with a quiz to test your knowledge and understanding, many chapters provide exercises with the tools to improve your practical MBSE skills.
+Each chapter ends with a quiz to test your knowledge and understanding, many chapters provide exercises with the tools to improve your practical MBSE skills.\
+\
+This MBSE courseware was developed in close cooperation between Fontys University of Applied Sciences (department of Electrical Engineering) and The MathWoks.
 
 ## Owner/s
 Harold Benten, MSc ([h.benten@fontys.nl](mailto:h.benten@fontys.nl))\
