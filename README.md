@@ -87,6 +87,9 @@ All engineering disciplines, such as, electrical engineers, mechatronics enginee
 ## Workflow
 Firstly, open the project file CoursewareonFiniteElementMethods.prj to have all the folder dependencies resolved. Then, open Live Script **MBSE(1).mlx** to start the courseware. Stay in the MBSE folder (so not in the chapters folder) for navigating through the course chapters.
 
+## Acknowledgements
+Special thanks goes to Mr. Andreas Apostolatos, PhD, ([aapostol@mathworks.com](mailto:aapostol@mathworks.com)) application Engineer in Education at MathWorks for his valuable advice during the development of this MBSE-course. 
+
 ## Release last tested
 R2024b
 
