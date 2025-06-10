@@ -85,7 +85,7 @@ Model Based Systems Engineering, requirements gathering, requirements analyzing,
 All engineering disciplines, such as, electrical engineers, mechatronics engineers, mechanical engineers, etc.
 
 ## Workflow
-Firstly, open the project file CoursewareonFiniteElementMethods.prj to have all the folder dependencies resolved. Then, open Live Script **MBSE(1).mlx** to start the course. Stay in the MBSE folder (so not in the chapters folder) for navigating through the course chapters.
+Firstly, open the project file CoursewareonFiniteElementMethods.prj to have all the folder dependencies resolved. Then, open Live Script **MBSE(1).mlx** to start the courseware. Stay in the MBSE folder (so not in the chapters folder) for navigating through the course chapters.
 
 ## Release last tested
 R2024b
